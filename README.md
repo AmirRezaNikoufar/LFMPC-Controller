@@ -1,4 +1,4 @@
-#Model Predictive Controller based on Laguerre Functions for 2 DOF robot
+## **Model Predictive Controller based on Laguerre Functions for 2 DOF robot**  
 
 This project focuses on controlling a 2-DOF rehabilitation robot designed for lower limb therapy using a Model Predictive Controller (MPC). The main goal is to track the robot’s joint angles accurately while considering input constraints through numerical optimization.
 
